@@ -683,6 +683,7 @@ text-decoration: none;
     margin-top: 20px;
     margin-right: 12px;
     background-color: transparent;
+    padding-left: 16px;
 }
 
 .mail-footer-form {
